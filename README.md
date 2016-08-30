@@ -1,2 +1,2 @@
 # haskellbook
-My playbook to learn Haskell from haskellbook.com
+My playbook to learn Haskell from [Haskell Book](http://haskellbook.com)
